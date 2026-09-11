@@ -1,5 +1,0 @@
-print("CCCCC   OOOOO   DDDDD   EEEEE")
-print("C       O   O   D   D   E")
-print("C       O   O   D   D   EEE")
-print("C       O   O   D   D   E")
-print("CCCCC   OOOOO   DDDDD   EEEEE")
